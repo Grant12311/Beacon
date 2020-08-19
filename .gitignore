@@ -2,5 +2,6 @@
 /obj
 
 Beacon.cbp
+Beacon.layout
 install.sh
 main.cpp
